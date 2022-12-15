@@ -63,7 +63,7 @@
     }
   },
   "storage": {
-    "tripsplannerresource": {
+    "s388064d69": {
       "service": "S3",
       "providerPlugin": "awscloudformation",
       "dependsOn": []

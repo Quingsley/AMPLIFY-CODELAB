@@ -1,7 +1,7 @@
 {
-  "resourceName": "tripsplannerresource",
-  "policyUUID": "4ea4522e",
-  "bucketName": "amplfytripsplannerstorage",
+  "resourceName": "s388064d69",
+  "policyUUID": "88064d69",
+  "bucketName": "amplifytripsplannerstorage",
   "storageAccess": "authAndGuest",
   "guestAccess": [
     "READ"
